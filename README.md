@@ -22,10 +22,7 @@ Peak order time
 SQL (MySQL)
 
 📂 5. Dataset
-Orders
-Order Details
-Pizzas
-Pizza Types
+Orders,Order Details,Pizzas,Pizza Types
 
 🚀 6. Project Workflow
 Data import into MySQL
